@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Refracction
 - 👀 I’m interested in Front-End Web development
-- 🌱 I’m currently learning CSS & JAVA
-- 💞️ I’m looking to collaborate on my projects
+- 🌱 I’m currently learning Python-
+- I know some basic programming concepts. 
 - 📫 How to reach me +923315586133
 - 😄 Pronouns: Male
 - ⚡ Fun fact: I'm BATMAN!
